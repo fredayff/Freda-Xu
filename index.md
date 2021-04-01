@@ -10,15 +10,28 @@ Hi, I am Yifan Xu! I am an undergraduate student at the University of Toronto.
 
 ### Contact
 
-Tel: +1 647 568 2672
+Tel: +1 647 568 2672 
+
 Email: fredayifan.xu@mail.utoronto.ca
+
 Facebook: Freda_xu
+
 Language: Chinese, English
+
 
 
 ### Key skill
 
 Social media 
+
+Adobe Photoshop
+
+Adobe After Effect
+
+
+# Technical skill
+
+
 Microsoft, Excel
 
 
