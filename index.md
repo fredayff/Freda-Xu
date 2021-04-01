@@ -1,38 +1,49 @@
-## Hello, I'm Yifan Xu
+# Yifan Xu
+
+Welcome to my personal website!
 
 You can use the [editor on GitHub](https://github.com/fredayff/mywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## About me
-Hi, I am Yifan Xu! I am an undergraduate student at the University of Toronto.
-
+Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto.
 
 ## Contact
 
-### Tel: +1 647 568 2672 
+Tel: +1 647 568 2672 
 
-### Email: fredayifan.xu@mail.utoronto.ca
+Email: fredayifan.xu@mail.utoronto.ca
 
-### Facebook: Freda_xu
+Facebook: Freda_xu
 
-### Language: Chinese, English
+Language: Chinese, English
 
 
 
 ## Key skill
 
-### Social media 
+Data analysis (just a novice)
 
-### Adobe Photoshop
+Singing
 
-### Adobe After Effect
+Video clip
 
+## Technical skill
 
-# Technical skill
+Adobe Photoshop
 
+After Effect
 
-### Microsoft, Excel
+Audition
+
+R 
+
+Phyton
+
+Premiere
+
+Microsoft Excel
 
 
 ## Statistic Project
@@ -42,10 +53,10 @@ Hi, I am Yifan Xu! I am an undergraduate student at the University of Toronto.
 
 ## Awards
 
+2019 Dean's List
+
 
 ## Experiences
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
