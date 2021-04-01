@@ -11,39 +11,39 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 ## Contact
 
-Tel: +1 647 568 2672 
+- Tel: +1 647 568 2672 
 
-Email: fredayifan.xu@mail.utoronto.ca
+- Email: fredayifan.xu@mail.utoronto.ca
 
-Facebook: Freda_xu
+- Facebook: Freda_xu
 
-Language: Chinese, English
+- Language: Chinese, English
 
 
 
 ## Key skill
 
-Data analysis (just a novice)
+- Data analysis (just a novice)
 
-Singing
+- Singing
 
-Video clip
+- Video clip
 
 ## Technical skill
 
-Adobe Photoshop
+- Adobe Photoshop
 
-After Effect
+- After Effect
 
-Audition
+- Audition
 
-R 
+- R 
 
-Phyton
+- Phyton
 
-Premiere
+- Premiere
 
-Microsoft Excel
+- Microsoft Excel
 
 
 ## Statistic Project
