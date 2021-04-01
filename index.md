@@ -4,46 +4,46 @@ You can use the [editor on GitHub](https://github.com/fredayff/mywebsite/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About me
+## About me
 Hi, I am Yifan Xu! I am an undergraduate student at the University of Toronto.
 
 
-### Contact
+## Contact
 
-Tel: +1 647 568 2672 
+### Tel: +1 647 568 2672 
 
-Email: fredayifan.xu@mail.utoronto.ca
+### Email: fredayifan.xu@mail.utoronto.ca
 
-Facebook: Freda_xu
+### Facebook: Freda_xu
 
-Language: Chinese, English
+### Language: Chinese, English
 
 
 
-### Key skill
+## Key skill
 
-Social media 
+### Social media 
 
-Adobe Photoshop
+### Adobe Photoshop
 
-Adobe After Effect
+### Adobe After Effect
 
 
 # Technical skill
 
 
-Microsoft, Excel
+### Microsoft, Excel
 
 
-# Statistic Project
+## Statistic Project
 
 
 
 
-### Awards
+## Awards
 
 
-### Experiences
+## Experiences
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
