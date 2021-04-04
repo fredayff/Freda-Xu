@@ -19,19 +19,18 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 
 
-## Key skill
+## Key Skill
 
 - Data analysis (just a novice)
 
 I am an undergraduate student with a statistics major. I took several statistics-related courses in school. I could use the ggplot to visualize the data. I am able to conduct a linear regression analysis, logistic regression analysis, experiment, and survey design. I have also written a few statistic reports, such as the cause of stress in the workplace.
-
 
 - Video clip
 
 I have 6 years of experience in post-processing pictures and 5 years of experience in video editing.
 
 
-## Technical skill
+## Technical Skill
 
 - Adobe Photoshop  ⚫️⚫️⚫️⚫️⚫️
 
@@ -75,7 +74,6 @@ New media operations (2020.06-2020.08) -  I was responsible for operating the of
 
 
 
-◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦
 ## The end
 
 
