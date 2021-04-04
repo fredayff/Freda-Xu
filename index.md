@@ -1,9 +1,11 @@
 # Yifan Xu
-Every day is a second chance。
+"Every day is a second chance."
 
 
 ## About me
-Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, photography, music, and baking. I am a big fan of any dessert, especially the chocolate flavor.
+Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, photography, music, and baking. I am a big fan of any dessert, especially the chocolate flavor. I hope to develop in data analysis and  new media art in the future.
+
+
 
 ## Contact
 
@@ -21,9 +23,14 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 - Data analysis (just a novice)
 
+I am an undergraduate student with a statistics major. I took several statistics-related courses in school. I could use the ggplot to visualize the data. I am able to conduct a linear regression analysis, logistic regression analysis, experiment, and survey design. I have also written a few statistic reports, such as the cause of stress in the workplace.
+
 - photography
 
 - Video clip
+
+I have 6 years of experience in post-processing pictures and 5 years of experience in video editing.
+
 
 ## Technical skill
 
@@ -42,11 +49,6 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 - Microsoft Excel
 
 
-## Statistic Project
-
-
-
-
 
 ## Education
 
@@ -55,17 +57,10 @@ University of Toronto - Statistics - Undergraduate
 
 ## Awards
 
-2019 - 2020: Dean’s List Scholar in the Faculty of Arts & Science  
+2019 - 2020: Dean’s List Scholar in the Faculty of Arts & Science at University of Toronto
 
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fredayff/mywebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### The end
+“The road is life. ”  ― Jack Kerouac
