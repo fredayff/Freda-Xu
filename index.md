@@ -1,13 +1,12 @@
 # Yifan Xu
-
-Welcome to my personal website!
+Every day is a second chance。
 
 You can use the [editor on GitHub](https://github.com/fredayff/mywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## About me
-Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto.
+Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, photography, music, and baking. I am a big fan of any dessert, especially the chocolate flavor.
 
 ## Contact
 
@@ -25,7 +24,7 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 - Data analysis (just a novice)
 
-- Singing
+- photography
 
 - Video clip
 
@@ -51,30 +50,18 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 
 
+
+## Education
+
+University of Toronto - Statistics - Undergraduate
+
+
 ## Awards
 
-2019 Dean's List
+2019 - 2020: Dean’s List Scholar in the Faculty of Arts & Science  
 
 
-## Experiences
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
