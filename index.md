@@ -1,8 +1,10 @@
 # Yifan Xu
-"Every day is a second chance."
+### "Every day is a second chance."
 
 
-### Welcome to my personal website!
+Welcome to my personal website!
+
+
 
 ## About me
 Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, music, and baking. I am a big fan of any dessert, especially the chocolate flavor. I hope to develop in data analysis and new media art in the future.
