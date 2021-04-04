@@ -1,9 +1,6 @@
 # Yifan Xu
 Every day is a second chance。
 
-You can use the [editor on GitHub](https://github.com/fredayff/mywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## About me
 Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, photography, music, and baking. I am a big fan of any dessert, especially the chocolate flavor.
