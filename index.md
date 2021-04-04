@@ -2,6 +2,8 @@
 "Every day is a second chance."
 
 
+### Welcome to my personal website!
+
 ## About me
 Hello there! My name is Yifan Xu. I am an undergraduate student majoring in statistics at the University of Toronto. I like films, music, and baking. I am a big fan of any dessert, especially the chocolate flavor. I hope to develop in data analysis and new media art in the future.
 
@@ -71,10 +73,20 @@ New media operations (2020.06-2020.08) -  I was responsible for operating the of
 
 
 
+## My System
+
+Remember Jumping out of my Comfort Zone.
+
+Pay attention to Details for every Analysis
+
+Always read. No inputs, No outputs.
+
 
 
 
 ## The end
 
 
-“The road is life. ”  ― Jack Kerouac
+
+
+### “The road is life. ”  ― Jack Kerouac
