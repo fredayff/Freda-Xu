@@ -33,25 +33,16 @@ I have 6 years of experience in post-processing pictures and 5 years of experien
 
 ## Technical skill
 
-- Adobe Photoshop
+- Adobe Photoshop  ⚫️⚫️⚫️⚫️⚫️
 
-⚫️⚫️⚫️⚫️⚫️
+- After Effect  ⚫️⚫️⚫️⚫️⚪
 
-- After Effect
+- R  ⚫️⚫️⚫️⚪⚪
 
-⚫️⚫️⚫️⚫️⚪
+- Phyton  ⚫️⚫️⚫️⚪⚪
 
-- R 
+- Premiere  ⚫️⚫️⚫️⚫️⚫️
 
-⚫️⚫️⚫️⚪⚪
-
-- Phyton
-
-⚫️⚫️⚫️⚪⚪
-
-- Premiere
-
-⚫️⚫️⚫️⚫️⚫️
 
 
 
@@ -61,17 +52,31 @@ University of Toronto - Statistics - Undergraduate
 
 Related courses: Probability and Statistics, Methods of Data Analysis, Design and Analysis of Experiments
 
+
+
+
+
+
 ## Awards
 
 2019 - 2020: Dean’s List Scholar in the Faculty of Arts & Science at University of Toronto
 
 
+
+
+
 ## Exerperinces
 
-### New media operations 
-
-New media operations -  I am responsible for operating the official account and typesetting.
+New media operations (2020.06-2020.08) -  I was responsible for operating the official account and typesetting.
 
 
+
+
+
+
+
+◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦◦
 ## The end
+
+
 “The road is life. ”  ― Jack Kerouac
