@@ -88,7 +88,4 @@ Always read. No inputs, No outputs.
 
 
 
-
-
-
-### “The road is life. ”  ― Jack Kerouac
+## Let's connect on Github!
