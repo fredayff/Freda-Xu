@@ -1,8 +1,9 @@
 # Yifan Xu
-### "Every day is a second chance."
+
+"Every day is a second chance."
 
 
-Welcome to my personal website!
+### Welcome to my personal website!
 
 
 
@@ -86,7 +87,6 @@ Always read. No inputs, No outputs.
 
 
 
-## The end
 
 
 
