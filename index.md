@@ -14,8 +14,6 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 ## Contact
 
-- Tel: +1 647 568 2672 
-
 - Email: fredayifan.xu@mail.utoronto.ca
 
 - Facebook: Freda_xu
@@ -26,7 +24,7 @@ Hello there! My name is Yifan Xu. I am an undergraduate student majoring in stat
 
 ## Key Skill
 
-- Data analysis (just a novice)
+- Data analysis 
 
 I am an undergraduate student with a statistics major. I took several statistics-related courses in school. I could use the ggplot to visualize the data. I am able to conduct a linear regression analysis, logistic regression analysis, experiment, and survey design. I have also written a few statistic reports, such as the cause of stress in the workplace.
 
@@ -64,15 +62,6 @@ Related courses: Probability and Statistics, Methods of Data Analysis, Design an
 ## Awards
 
 2019 - 2020: Dean’s List Scholar in the Faculty of Arts & Science at University of Toronto
-
-
-
-
-
-## Exerperinces
-
-New media operations (2020.06-2020.08) -  I was responsible for operating the official account and typesetting.
-
 
 
 
